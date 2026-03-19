@@ -1,0 +1,26 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "this is my practice den",
+  "keywords": [
+    "practice"
+  ],
+  "homepage": "https://github.com/rudra002s/Rudra-NodeJS-Practice#readme",
+  "bugs": {
+    "url": "https://github.com/rudra002s/Rudra-NodeJS-Practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudra002s/Rudra-NodeJS-Practice.git"
+  },
+  "license": "ISC",
+  "author": "rudra",
+  "type": "^c",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "slugify": "^1.6.8"
+  }
+}
