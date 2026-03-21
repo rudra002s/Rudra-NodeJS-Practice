@@ -2,9 +2,10 @@
 // import {a} from "./mymodule.js"
 // console.log(a)
 
-// import harry from "./mymodule.js"
-// console.log(harry)
+import harry from "./mymodule.js"
+console.log(harry)
 
 //require was used in old coding formats but now we use import syntax
-const a=require("./mymodule2.js")
-console.log(a)
+
+// const a=require("./mymodule2.js")
+// console.log(a)
